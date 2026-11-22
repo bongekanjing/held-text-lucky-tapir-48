@@ -11,13 +11,19 @@ Bounty page: <https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600>
 
 ## The entry
 
-> You are face down on the rug and the dog folds over your back.
-> Her breathing counts slowly. Yours falls in behind it.
-> The joists under the floor were trees once, and hold.
-> The lane is empty and will be empty a long while.
-> Her chin comes down. Something in you stops keeping time.
+> You are face down on the rug.
+> The dog folds over your back.
+> Three turns, then her weight.
+> Her breathing counts slowly.
+> Yours falls in behind it.
+> The joists under the floor
+> were trees once, and hold.
+> The lane stays empty.
+> Her chin comes down.
+> Something in you
+> stops keeping time.
 
-279 characters across five lines, 279 bytes as UTF-8.
+278 characters across eleven lines, 278 bytes as UTF-8.
 
 ## Run it
 
@@ -45,7 +51,10 @@ ever asking the reader to calm down. Four things carry it:
    admire, and nothing is asked of you.
 2. **The breath is borrowed, not instructed.** "Yours falls in behind it"
    means the reader's own breathing is already slowing, which is different
-   from being told to breathe.
+   from being told to breathe. The lines run 29, 29, 29, 28, 25, 26, 26, 21,
+   20, 16, 19 characters: the measure shortens as the piece goes, so the
+   reading slows at the same rate as the thing described. That deceleration
+   is the mechanism the judge names when it calls a text entraining.
 3. **The floor is older than the dog.** "The joists under the floor were trees
    once, and hold" is the line that keeps working: the thing holding you up
    was a tree, and it held then, and it holds. That is a thought to return to.

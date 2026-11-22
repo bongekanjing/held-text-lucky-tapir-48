@@ -12,11 +12,17 @@ import os
 # The text is kept as a tuple of lines rather than one blob so the line breaks
 # survive to the file instead of being flattened by the join below.
 TEXT = (
-    "You are face down on the rug and the dog folds over your back.",
-    "Her breathing counts slowly. Yours falls in behind it.",
-    "The joists under the floor were trees once, and hold.",
-    "The lane is empty and will be empty a long while.",
-    "Her chin comes down. Something in you stops keeping time.",
+    "You are face down on the rug.",
+    "The dog folds over your back.",
+    "Three turns, then her weight.",
+    "Her breathing counts slowly.",
+    "Yours falls in behind it.",
+    "The joists under the floor",
+    "were trees once, and hold.",
+    "The lane stays empty.",
+    "Her chin comes down.",
+    "Something in you",
+    "stops keeping time.",
 )
 
 LIMIT = 280
