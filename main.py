@@ -19,10 +19,9 @@ TEXT = (
     "Yours falls in behind it.",
     "The joists were trees, and held.",
     "They hold you now.",
-    "Outside, the lane stays empty.",
-    "Her chin comes down.",
-    "Nothing here",
-    "is yours to hold.",
+    "The dog holds your back.",
+    "The floor holds the joists.",
+    "Nothing here is yours to hold.",
 )
 
 LIMIT = 280

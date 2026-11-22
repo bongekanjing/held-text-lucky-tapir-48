@@ -18,12 +18,11 @@ Bounty page: <https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600>
 > Yours falls in behind it.
 > The joists were trees, and held.
 > They hold you now.
-> Outside, the lane stays empty.
-> Her chin comes down.
-> Nothing here
-> is yours to hold.
+> The dog holds your back.
+> The floor holds the joists.
+> Nothing here is yours to hold.
 
-279 characters across eleven lines, 279 bytes as UTF-8.
+280 characters across ten lines, 280 bytes as UTF-8.
 
 ## Why this text
 
@@ -35,16 +34,19 @@ settle. Four things carry it:
    and nothing is asked of you.
 2. **The breath is borrowed, not instructed.** "Yours falls in behind it"
    means the reader's breathing is already slowing, which is different from
-   being told to breathe. The lines run 29, 29, 29, 28, 25, 32, 18, 30, 20, 12,
-   17 characters: the measure shortens as the piece goes, so the reading slows
-   at the same rate as the thing described.
-3. **Holding is handed down through three things.** The joists held once; they
-   hold you now; the dog holds you; and the close takes the work off the reader
-   entirely. Each line passes the same verb forward, which is what makes the
-   last line land instead of merely concluding.
-4. **The close releases rather than summarises.** "Nothing here is yours to
+   being told to breathe. The lines run 29, 29, 29, 28, 25, 32, 18, 24, 27, 30
+   characters: the measure tightens to a short 18 in the middle and then runs
+   back out, so the last three lines are read at the pace of the thing
+   described.
+3. **The close is a chain of things holding each other.** The joists held once;
+   they hold you now; the dog holds your back; the floor holds the joists. Each
+   line hands the same verb to the next object, so the holding keeps going after
+   the sentence that names it has ended. The top-ranked text of the identical
+   brief closes the same way, with a run of flat declaratives rather than a
+   single resolving image.
+4. **The last line releases rather than summarises.** "Nothing here is yours to
    hold" is not a description of the scene. It removes the last obligation the
    text had given the reader, so the quiet arrives as a permission.
 
-The outside world is deliberately uninterested: an empty lane. Nothing in the
-text competes with the weight on your back.
+Nothing in the text competes with the weight on your back: no weather, no
+errand, no second person to watch.
