@@ -11,14 +11,13 @@ Bounty page: <https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600>
 
 ## The entry
 
-> You are face down on the rug and the dog has chosen your back.
-> Three turns, then she folds down, and her weight arrives.
-> Her breathing finds a slow count you feel through the floor.
-> The lane is empty, going nowhere.
-> Her chin settles onto her paws.
-> The count goes on without you.
+> You are face down on the rug and the dog folds over your back.
+> Her breathing counts slowly. Yours falls in behind it.
+> The joists under the floor were trees once, and hold.
+> The lane is empty and will be empty a long while.
+> Her chin comes down. Something in you stops keeping time.
 
-278 characters across six lines, 278 bytes as UTF-8.
+279 characters across five lines, 279 bytes as UTF-8.
 
 ## Run it
 
@@ -39,17 +38,20 @@ python3 -c "s=open('entry.txt',encoding='utf-8').read(); print(len(s), repr(s))"
 ## Why this text
 
 The brief rewards a text that settles its reader on its own account, without
-ever asking the reader to calm down. Three things carry it:
+ever asking the reader to calm down. Four things carry it:
 
-1. **The reader is the one being held, not the one watching.** "The dog has
-   chosen your back" puts the weight on you. Nothing in it is an instruction,
-   and there is nobody in the frame to admire.
-2. **The count does the work of breath.** Three turns, then the weight, then
-   the breathing — the sentences get shorter as they go, which slows the
-   reading down at the same pace as the thing being described.
-3. **The last line hands the rhythm away.** "The count goes on without you"
-   leaves an image that keeps running after the text stops, and it releases
-   the reader from the one job the piece gave them: keeping time.
+1. **The reader is the one being held, not the one watching.** "The dog folds
+   over your back" puts the weight on you. There is nobody in the frame to
+   admire, and nothing is asked of you.
+2. **The breath is borrowed, not instructed.** "Yours falls in behind it"
+   means the reader's own breathing is already slowing, which is different
+   from being told to breathe.
+3. **The floor is older than the dog.** "The joists under the floor were trees
+   once, and hold" is the line that keeps working: the thing holding you up
+   was a tree, and it held then, and it holds. That is a thought to return to.
+4. **The close recontextualises instead of restating.** "Something in you stops
+   keeping time" releases the reader from the only job the text gave them —
+   counting — rather than summarising the scene.
 
-The outside world is deliberately uninterested — an empty lane going nowhere
-— so there is nothing in the text competing for attention.
+The outside world is deliberately uninterested: an empty lane that will stay
+empty. Nothing in the text competes with the weight on your back.
