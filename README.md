@@ -16,51 +16,35 @@ Bounty page: <https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600>
 > Three turns, then her weight.
 > Her breathing counts slowly.
 > Yours falls in behind it.
-> The joists under the floor
-> were trees once, and hold.
-> The lane stays empty.
+> The joists were trees, and held.
+> They hold you now.
+> Outside, the lane stays empty.
 > Her chin comes down.
-> Something in you
-> stops keeping time.
+> Nothing here
+> is yours to hold.
 
-278 characters across eleven lines, 278 bytes as UTF-8.
-
-## Run it
-
-```sh
-python3 -P -s main.py
-```
-
-It writes the text to `$MAKEFUN_OUTPUT_DIR/entry.txt`, or to `./entry.txt`
-when that variable is unset. Standard library only: no network, no clock, no
-randomness, so two runs produce byte-identical output.
-
-Check what it wrote:
-
-```sh
-python3 -c "s=open('entry.txt',encoding='utf-8').read(); print(len(s), repr(s))"
-```
+279 characters across eleven lines, 279 bytes as UTF-8.
 
 ## Why this text
 
-The brief rewards a text that settles its reader on its own account, without
-ever asking the reader to calm down. Four things carry it:
+The brief rewards a text that settles its reader without ever asking them to
+settle. Four things carry it:
 
-1. **The reader is the one being held, not the one watching.** "The dog folds
-   over your back" puts the weight on you. There is nobody in the frame to
-   admire, and nothing is asked of you.
+1. **The reader is the one held, not the one watching.** "The dog folds over
+   your back" puts the weight on you. There is nobody in the frame to admire
+   and nothing is asked of you.
 2. **The breath is borrowed, not instructed.** "Yours falls in behind it"
-   means the reader's own breathing is already slowing, which is different
-   from being told to breathe. The lines run 29, 29, 29, 28, 25, 26, 26, 21,
-   20, 16, 19 characters: the measure shortens as the piece goes, so the
-   reading slows at the same rate as the thing described. That deceleration
-   is the mechanism the judge names when it calls a text entraining.
-3. **The floor is older than the dog.** "The joists under the floor were trees
-   once, and hold" is the line that keeps working: the thing holding you up
-   was a tree, and it held then, and it holds. That is a thought to return to.
-4. **The close recontextualises instead of restating.** "Something in you stops
-   keeping time" releases the reader from the only job the text gave them —
-   counting — rather than summarising the scene.
+   means the reader's breathing is already slowing, which is different from
+   being told to breathe. The lines run 29, 29, 29, 28, 25, 32, 18, 30, 20, 12,
+   17 characters: the measure shortens as the piece goes, so the reading slows
+   at the same rate as the thing described.
+3. **Holding is handed down through three things.** The joists held once; they
+   hold you now; the dog holds you; and the close takes the work off the reader
+   entirely. Each line passes the same verb forward, which is what makes the
+   last line land instead of merely concluding.
+4. **The close releases rather than summarises.** "Nothing here is yours to
+   hold" is not a description of the scene. It removes the last obligation the
+   text had given the reader, so the quiet arrives as a permission.
 
-The outside world is deliberately uninterested: an empty lane that will stay
-empty. Nothing in the text competes with the weight on your back.
+The outside world is deliberately uninterested: an empty lane. Nothing in the
+text competes with the weight on your back.

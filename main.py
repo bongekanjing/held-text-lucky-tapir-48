@@ -17,12 +17,12 @@ TEXT = (
     "Three turns, then her weight.",
     "Her breathing counts slowly.",
     "Yours falls in behind it.",
-    "The joists under the floor",
-    "were trees once, and hold.",
-    "The lane stays empty.",
+    "The joists were trees, and held.",
+    "They hold you now.",
+    "Outside, the lane stays empty.",
     "Her chin comes down.",
-    "Something in you",
-    "stops keeping time.",
+    "Nothing here",
+    "is yours to hold.",
 )
 
 LIMIT = 280
